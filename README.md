@@ -2,7 +2,7 @@
 a C++ library for mark-sweep gc.
 
 The gc library is in gc.h.
-
+please compile with ```-std=c++17```
 How to use  
 
 ## For functions
